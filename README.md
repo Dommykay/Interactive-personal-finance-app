@@ -1,5 +1,6 @@
 # Interactive-personal-finance-app
 Links to the customer facing app and web app designed for financial advisors and managers.
+Made collaboratively in a team of 7 for the Computing in Business unit for my Software Engineering course.
 
 [Customer facing app](https://www.figma.com/proto/DNnm3XjHe9JRFZcpa6CwkU/The-real-thing?node-id=413-1708&p=f&t=fgt8hsWnbItUAx0F-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=275%3A625)
 
